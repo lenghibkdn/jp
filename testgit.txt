@@ -1,3 +1,7 @@
 test git
 test git2
+<<<<<<< HEAD
 test git 3
+=======
+test git 4
+>>>>>>> origin/master
