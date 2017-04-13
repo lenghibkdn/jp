@@ -1,0 +1,56 @@
+<?php
+
+return [
+    'delete' => 'Delete', //削除
+    'login' => 'Login',//ログイン
+    'logout' => 'Logout',//ログアウト
+    'add_option' => 'Add an answer',//回答を追加
+    'add_other' => 'Other answers',//他の回答を追加
+    'checkboxes' => 'checkbox',//チェックボックス
+    'choices' => 'Select',//セレクト
+    'enter_answer_here' => 'Enter answer here',//回答をご入力ください
+    'other' => 'Other:',//Ko hiểu nghĩa other của cái gì?
+    'home' => 'Home',//ホーム
+    'notices' => 'Messages',//メッセージ
+    'search_survey' => 'Search survey. . ',//アンケートを検索
+    'search' => 'Search',//検索
+    'enter_question_here' => 'Enter question here',//回答をご入力ください
+    'create_survey' => 'Create survey',//アンケートを作成
+    'survey' => 'survey',//アンケート
+    'remove' => 'Delete',//削除
+    'submit' => 'Submit',//提出 //送る
+    'error' => 'Error',//エラー
+    'dont_have' => 'Not having any surveys',// Ko hiểu nghĩa tiếng anh.
+    'public' => 'Public',//公共　hoac パブリック
+    'update_info' => 'update information',//情報更新 hoac 情報アップデイト
+    'redirect_admin' => 'Go to the site',//Site gi? 管理ページへ進む
+    'history' => 'history',//歴史
+    'profile' => 'Profile',//プロフィール
+    'login_with' => 'Login with',//グーグルアカウントでログインする :Login bang acc google
+    'login_now' => 'Login now',//ログイン
+    'google' => 'Google',//グーグル
+    'facebook' => 'Facebook',//フェイスブック
+    'twitter' => 'Twitter',//ツイッター 
+    'menu' => 'Menu',//メーニュー
+    'wellcome' => 'welcome',//ようこそ
+    'finish' => 'Done',//完了
+    'invited' => 'Invited',//招待しました。
+    'progress' => 'process',//プロセス
+    'back' => 'Back',//戻る
+    'next' => 'Next',//次へ
+    'submit_survey' => 'Submit Survey',//アンケート提出
+    'survey_complete' => 'Complete survey',//アンケート完成
+    'choose_question' => 'Create your questions here',//ここで質問する
+    'send_email_for' => 'Who do you want to send this survey to?', //メールでアンケート結果を送る
+    'list_survey' => 'list of survey',//アンケート一覧
+    'detail_survey' => 'Detailed survey',//アンケート詳細
+    'your_survey' => 'Your survey',//提出したアンケート
+    'survey_invited' => 'Survey invited',//招待したアンケート
+    'description_link' => 'This is a managed link',// Ko hiểu hỗ trợ gì?
+    'admin_link' => 'Visit this link to edit, delete or close survey',//ここをクリックするとアンケートを編集ことができる
+    'description_complete' => 'Here are 2 links that have been submitted',//提出されたアンケートは二つです。(2 link nghia la 2 survey?)
+    'save' => 'Save survey',//アンケートを保存
+    'load' => 'Reload',//リロード
+    'link' => 'link',//リンク
+    'survey_closed' => 'Survey closed',//アンケート完了
+];
